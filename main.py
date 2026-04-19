@@ -6,7 +6,7 @@ link_api = "http://api.weatherapi.com/v1/current.json"#link http da api
 
 parametros = { #parametros para usar essa função da api
     "key": api_key,
-    "q": "Araras",
+    "q": "",#nome da sua cidade
     "lang": "pt"
 }
 
